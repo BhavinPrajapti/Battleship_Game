@@ -1,5 +1,4 @@
 # Battleship_Game
-# BattleShip Game - APT Assignment 2023
 
 This assignment is about creating an OO model of the game Battleship (see https://en.wikipedia.org/ wiki/Battleship_(game)). The goal for the initial version of the program is to replace the sheet of paper, i.e. a player can use the program to arrange his ships, keep track of the opponent’s shots, andkeep track of the results of his own shots. You won’t implement a multi-player game. The user of your program will still have to talk to his opponent, who can continue to use a sheet of paper. Contrary to games such as Reversi, the state of a game such as Battleship cannot be represented by the state of the fields on the board only, because we have to find out about such things as the distance of ships and the number of ships (when arranging the own ships on the board) or whether
 a hit is a final hit, i.e. sinks the ship.
