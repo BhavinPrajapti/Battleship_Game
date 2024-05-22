@@ -109,7 +109,7 @@ END OF BATTLESHIP GAME!!! HAPPY CODING :)
 
 # Common GIT commands used in this project
 
-1. `git clone git@github.com:GirishTabaraddi/Eclipse-Workspace.git` - This command is used to clone the repo we create in GitHub
+1. `git clone git@github.com:BhavinPrajapti/Eclipse-Workspace.git` - This command is used to clone the repo we create in GitHub
 2. `git status` - This command gives the status of your branch and the files that are modified.
 3. `ls -la` - This command lists all the directories in our repo folder.
 4. `git add <file>` - This command will stage the files that needs to be committed.
